@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bricks/.idea/Bricks.iml" filepath="$PROJECT_DIR$/../Bricks/.idea/Bricks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DZ_Cvirko.iml" filepath="$PROJECT_DIR$/.idea/DZ_Cvirko.iml" />
+    </modules>
+  </component>
+</project>
